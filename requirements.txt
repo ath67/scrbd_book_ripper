@@ -1,4 +1,4 @@
 selenium==3.141.0
 fpdf==1.7.2
 Pillow==7.2.0
-ocrmypdf==10.2.0
+ocrmypdf==10.3.1
